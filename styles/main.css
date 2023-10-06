@@ -117,6 +117,14 @@ footer {
     bottom: 0;
 }
 
+dt {
+    font-weight: bold;
+}
+dd {
+    font-size: 13px;
+    margin-bottom: 8px;
+}
+
 /* Class Selectors */
 .active {
     border-bottom: 1px solid yellow;
