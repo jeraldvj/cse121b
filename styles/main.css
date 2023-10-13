@@ -125,6 +125,43 @@ dd {
     margin-bottom: 8px;
 }
 
+#gridly {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#gridly h2, #gridly h1{
+    margin: 0px;
+}
+#gridly select{
+    padding: 5px 50px;
+    background-color: #efefef;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+#temples{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+#temples article{
+    width: 300px;
+    border: 1px solid #ccc;
+    background-color: #efefef;
+    text-align: center;
+    margin: 20px;
+}
+#temples article img{
+    width: 250px;
+    margin: 10px auto;
+    box-shadow: 0 0 30px #777;
+}
+#temples article h3{
+    margin: 25px;
+}
+
 /* Class Selectors */
 .active {
     border-bottom: 1px solid yellow;
@@ -159,7 +196,6 @@ dd {
         grid-template-columns: 250px 1fr;
         max-width: -moz-fit-content;
         max-width: fit-content;
-
     }
 
 }
