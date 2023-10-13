@@ -136,8 +136,6 @@ dd {
 #gridly select{
     padding: 5px 50px;
     background-color: #efefef;
-    text-align: center;
-    direction: rtl;
     -webkit-appearance: none;
     -moz-appearance: none;
 }
