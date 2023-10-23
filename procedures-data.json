@@ -1,0 +1,178 @@
+[
+    {
+        "procedureName": "Botox in 3 Zones",
+        "material": "Botox",
+        "materialImage":"/images/botox.png",
+        "timeDurability": "6 mounths",
+        "areaToTreat": "Face",
+        "desciption": "This procedure prevents wrinkles since it stretches and paralyzes in all three areas. (Forehead, between eyebrows and crow's feet)."
+    },
+    {
+        "procedureName": "Botox by zones",
+        "material": "Botox",
+        "materialImage":"/images/botox.png",
+        "timeDurability": "6 mounths",
+        "areaToTreat": "Face",
+        "desciption": "This procedure allows to choose separate areas where the patient wants to be treated with botox. These zones are Forehead, between eyebrows, crow's feet, chin, marionette line, gummy smile, bunny lines (nose), plastinar, Nefertiti, barcode (lips), bruxism."
+    },
+    {
+        "procedureName": "Hyperhidrosis",
+        "material": "Botox",
+        "materialImage":"/images/botox.png",
+        "timeDurability": "6 mounths",
+        "areaToTreat": "Body",
+        "desciption": "This procedure prevents sweating in the areas to be treated can be: Axillary, Hands, and Feet."
+    },
+    {
+        "procedureName": "Rhinomodeling",
+        "material": "Hyaluronic Acid",
+        "materialImage":"/images/hyaluronic-acid.png",
+        "timeDurability": "12 mounths",
+        "areaToTreat": "Face",
+        "desciption": "This procedure allows the nose to be filled and shaped with hyaluronic acid."
+    },
+    {
+        "procedureName": "Nasolabial Folds",
+        "material": "Hyaluronic Acid",
+        "materialImage":"/images/hyaluronic-acid.png",
+        "timeDurability": "12 mounths",
+        "areaToTreat": "Face",
+        "desciption": "This procedure allows filling in the marked grooves to noticeably eliminate those folds."
+    },
+    {
+        "procedureName": "Russian Lips",
+        "material": "Hyaluronic Acid",
+        "materialImage":"/images/hyaluronic-acid.png",
+        "timeDurability": "12 mounths",
+        "areaToTreat": "Face",
+        "desciption": "This procedure allows outlining and filling in the lips in an aesthetic way to make them larger and aesthetically natural with a Russian style."
+    },
+    {
+        "procedureName": "Chin",
+        "material": "Hyaluronic Acid",
+        "materialImage":"/images/hyaluronic-acid.png",
+        "timeDurability": "12 mounths",
+        "areaToTreat": "Face",
+        "desciption": "This procedure allows the chin to be filled in to give it a natural and aesthetically more voluminous appearance."
+    },
+    {
+        "procedureName": "Mandibular Profiling",
+        "material": "Hyaluronic Acid",
+        "materialImage":"/images/hyaluronic-acid.png",
+        "timeDurability": "12 mounths",
+        "areaToTreat": "Face",
+        "desciption": "This procedure allows for fillings to be made in the jaw area to mark the jaw more aesthetically."
+    },
+    {
+        "procedureName": "Cheekbones",
+        "material": "Hyaluronic Acid",
+        "materialImage":"/images/hyaluronic-acid.png",
+        "timeDurability": "12 mounths",
+        "areaToTreat": "Face",
+        "desciption": "This procedure fills in the cheekbones to give them a larger, natural appearance."
+    },
+    {
+        "procedureName": "Baggy Eyes",
+        "material": "Hyaluronic Acid",
+        "materialImage":"/images/hyaluronic-acid.png",
+        "timeDurability": "12 mounths",
+        "areaToTreat": "Face",
+        "desciption": "This procedure allows filling in baggy eyes to eliminate that dark and stuffy appearance that dark circles cause."
+    },
+    {
+        "procedureName": "Fine Wrinkles (Between Eyebrows)",
+        "material": "Hyaluronic Acid",
+        "materialImage":"/images/hyaluronic-acid.png",
+        "timeDurability": "12 mounths",
+        "areaToTreat": "Face",
+        "desciption": "This procedure allows the filling of small wrinkles located in the forehead area and between the eyebrows."
+    },
+    {
+        "procedureName": "PRP Facial",
+        "material": "Plasma",
+        "materialImage":"/images/plasma.png",
+        "timeDurability": "1 mounths",
+        "areaToTreat": "Face",
+        "desciption": "This procedure is intended to stimulate the production of collagen and elastin in the face."
+    },
+    {
+        "procedureName": "PRP Back of Hand",
+        "material": "Plasma",
+        "materialImage":"/images/plasma.png",
+        "timeDurability": "1 mounths",
+        "areaToTreat": "Body",
+        "desciption": "This procedure aims to stimulate rejuvenation and the production of collagen and elastin in the hand."
+    },
+    {
+        "procedureName": "PRP Neck and Décolleté",
+        "material": "Plasma",
+        "materialImage":"/images/plasma.png",
+        "timeDurability": "1 mounths",
+        "areaToTreat": "Body",
+        "desciption": "This procedure aims to stimulate rejuvenation and the production of collagen and elastin in the neck."
+    },
+    {
+        "procedureName": "8 Tensioning Wires",
+        "material": "Tensioning wires",
+        "materialImage":"/images/tensioning-wires.png",
+        "timeDurability": "18 mounths",
+        "areaToTreat": "Face",
+        "desciption": "This procedure with 8 tensioning threads allow to eliminates the sagging of the face, giving a lifting or tightening effect."
+    },
+    {
+        "procedureName": "12 Tensioning Wires",
+        "material": "Tensioning wires",
+        "materialImage":"/images/tensioning-wires.png",
+        "timeDurability": "18 mounths",
+        "areaToTreat": "Face",
+        "desciption": "This procedure with 12 tensioning threads allow to eliminates the sagging of the face, giving a lifting or tightening effect."
+    },
+    {
+        "procedureName": "25 PDO Threads (Collagen Biostimulants)",
+        "material": "PDO Threads",
+        "materialImage":"/images/pdo-threads.png",
+        "timeDurability": "18 mounths",
+        "areaToTreat": "Face",
+        "desciption": "This procedure  with 25 PDO threads stimulates collagen and creates a support mesh for the face."
+    },
+    {
+        "procedureName": "50 PDO Threads (Collagen Biostimulants)",
+        "material": "PDO Threads",
+        "materialImage":"/images/pdo-threads.png",
+        "timeDurability": "18 mounths",
+        "areaToTreat": "Face",
+        "desciption": "This procedure with 50 PDO threads stimulates collagen and creates a support mesh for the face."
+    },
+    {
+        "procedureName": "Enzymatic Jowl Lipolysis (4 Sessions)",
+        "material": "Enzymatic Lipolysis",
+        "materialImage":"/images/enzymatic-lipolysis.png",
+        "timeDurability": "1 mounths",
+        "areaToTreat": "Face",
+        "desciption": "This procedure allows the fatty tissue of the double chin to be degraded."
+    },
+    {
+        "procedureName": "Abdominal Lipolysis (4 Sessions)",
+        "material": "Enzymatic Lipolysis",
+        "materialImage":"/images/enzymatic-lipolysis.png",
+        "timeDurability": "1 mounths",
+        "areaToTreat": "Body",
+        "desciption": "This procedure allows the fatty tissue of the abdomen to be degraded."
+    },
+    {
+        "procedureName": "Peptones + Russian Waves (6 Sessions)",
+        "material": "Peptones",
+        "materialImage":"/images/peptones.png",
+        "timeDurability": "3 mounths",
+        "areaToTreat": "Body",
+        "desciption": "This procedure allows to stimulation of the growth of the buttocks based on the 6 sessions and the activation of the muscles with the Russian waves."
+    },
+    {
+        "procedureName": "Peptones + Russian Waves (12 Sessions)",
+        "material": "Peptones",
+        "materialImage":"/images/peptones.png",
+        "timeDurability": "3 mounths",
+        "areaToTreat": "Body",
+        "desciption": "This procedure allows to stimulation of the growth of the buttocks based on the 12 sessions and the activation of the muscles with the Russian waves."
+    }
+]
