@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CSE 121b | Project </title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;600&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="styles/main.css">
+</head>
+
+<body>
+  <nav>
+    <ul id="menu">
+      <li><a id="toggleMenu">&equiv;</a></li>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="w01-task.html">W1 Task</a></li>
+      <li><a href="w03-task.html">W3 Task</a></li>
+      <li><a href="w04-task.html">W4 Task</a></li>
+      <li><a href="w05-task.html">W5 Task</a></li>
+      <li><a href="project.html" class="active">Project</a></li>
+    </ul>
+  </nav>
+  <main id="project-main">
+    <h1>Dra. Fabiola Campos' Office </h1>
+    <div class="banner">
+      <img id="logo" src="/images/original-logo.png">
+      <img id="banner-img" src="/images/banner.jpg">
+      <p>We help you look and feel good. <br>The procedures are non-surgical and non-invasive.</p>
+    </div>
+
+    <select id="sortBy" title="Choose a data filter.">
+      <option value="" disabled selected>Filter Procedures by Materials</option>
+      <option value="Botox">Botox</option>
+      <option value="Hyaluronic Acid">Hyaluronic Acid</option>
+      <option value="Plasma">Plasma (PRP)</option>
+      <option value="Tensioning wires">Tensioning wires</option>
+      <option value="PDO Threads">PDO Threads</option>
+      <option value="Enzymatic Lipolysis">Enzymatic Lipolysis</option>
+      <option value="Peptones">Peptones</option>
+      <option value="All">Show All Procedures</option>
+    </select>
+
+    <div id="procedures">
+    </div>
+    <section id="section-array">
+      <h2>Array Methods (This array is created from the length of the Total Procedure List)</h2>
+      <p>
+        Length Array: <span id="array"></span>
+      </p>
+      <p>
+        Odd Numbers: <span id="odds"></span>
+      </p>
+      <p>
+        Even Numbers: <span id="evens"></span>
+      </p>
+    </section>
+  </main>
+
+
+  <footer>
+    &copy;<span id="year"></span> | Project - Aesthetic Medicine, Fabiola Campos, M.D. | CSE 121b
+  </footer>
+  <script src="scripts/main.js"></script>
+  <script>
+    document.getElementById("year").innerHTML = new Date().getFullYear();
+  </script>
+  <script src="scripts/project.js"></script>
+</body>
+
+</html>
